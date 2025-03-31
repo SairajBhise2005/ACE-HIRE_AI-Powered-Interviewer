@@ -177,7 +177,7 @@ Distributed under the MIT `(License)`. See LICENSE for more information.
 | **Priyanka Bhat**   | Backend Developer                    | Backend Development                                               | priyankabhatt0022@gmail.com         |  
 | **Amrutheshwari V.** | Documentation                        | Report Formation and Parametric Design                            | amrutheshwariv@gmail.com           |  
 | **Tiya Rose**       | Frontend Designer                    | UI Design                                                         | tiyarosepulikunnel@gmail.com           |  
-| **Lavanya HS**      | Researcher                           | Problem statement and existing work research                      | sam@acehire.com            |  
+| **Lavanya HS**      | Researcher                           | Problem statement and existing work research                      | lavanyahs865@gmail.com           |  
 | **Gajendiran**      | User-Centric Functionality Designer  | User-centric designs (Help Desk page & Feedback session page)     | 2023gajendiran.a@vidyashilp.edu.in           |  
 | **Sairaj Bhise**    | Full-Stack Developer                 | Integration of frontend and backend code, frontend development & optimization, UX optimization | sairajbhise2005@gmail.com |  
 
@@ -186,7 +186,7 @@ Distributed under the MIT `(License)`. See LICENSE for more information.
 - **Priyanka Bhat** - Backend Development ([@pbhatt0022](https://github.com/pbhatt0022))
 - **Amrutheshwari V.** - Documentation ([@Amrutheshwari01](https://github.com/Amrutheshwari01))
 - **Tiya Rose** - Frontend Design ([@tiyarosepulikunnel](https://github.com/tiyarosepulikunnel))
-- **Lavanya HS** - Research ([@]())
+- **Lavanya HS** - Research ([@lavanya-hs15](https://github.com/lavanya-hs15))
 - **Gajendiran** - User-Friendly Design Implementation([@GajendiranA](https://github.com/GajendiranA))
 - **Sairaj Bhise** -  Integration of Frontend-centric and backend-centric code([@SairajBhise2005](https://github.com/SairajBhise2005))
 
