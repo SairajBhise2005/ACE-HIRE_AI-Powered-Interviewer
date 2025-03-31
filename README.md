@@ -125,6 +125,42 @@ git push origin feature/AmazingFeature
 ```
 5. Open a Pull Request<br><br>
 
+## 📸 Screenshots
+
+### 🔐 Authentication
+*🔑 Login Page*
+![Login Page](https://github.com/user-attachments/assets/c6c69fef-129f-47b8-a1f8-721e4274c91c)
+
+*📝 Registration Page*
+![Registration Page](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer/blob/main/UI_Screenshots/Registration.jpg?raw=true)  
+
+
+### 🏠 Main Application
+*🏡 Home Page*
+![Home Page](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer/blob/main/UI_Screenshots/HomePage.jpg?raw=true)  
+
+*📤 Upload Documents Page*
+![Upload Documents](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer/blob/main/UI_Screenshots/UploadDocuments.jpg?raw=true)  
+
+
+### ✨ Features
+*📄 Resume Analysis*
+![Resume Analysis](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer/blob/main/UI_Screenshots/ResumeAnalysis.jpg?raw=true)  
+
+*❓ Question Generation*
+![Question Generation](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer/blob/main/UI_Screenshots/QuestionGeneration.jpg?raw=true)  
+
+*💼 Interview Practice Session*
+![Interview Practice Session](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer/blob/main/UI_Screenshots/InterviewPracticeSession.jpg?raw=true)  
+
+
+### 📊 Results
+*📑 Final Report*
+![Final Report](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer/blob/main/UI_Screenshots/FinalReport.jpg?raw=true)  
+
+*👤 User Profile Page*
+![Profile](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer/blob/main/UI_Screenshots/FinalReport.jpg?raw=true)  
+
 # 📦 Packages & System Requirements  
 
 ## Minimum System Requirements  
@@ -165,7 +201,23 @@ git push origin feature/AmazingFeature
 
 > **Note:** For M1/M2 Mac users, we recommend using **Conda** for better compatibility with audio packages.
 
+## 🚀 Future Roadmap
 
+### ⏳ Near-Term (0-6 months)
+- 🎯 Domain expansion to finance/engineering roles
+- 🔗 LinkedIn API integration 
+- 🔇 Advanced noise cancellation algorithms
+
+### ⌛ Mid-Term (6-12 months)  
+- 😊 Real-time facial expression analysis
+- 🎚️ Dynamic difficulty adjustment  
+- ♾️ Neurodiversity support modules
+
+### 🔭 Long-Term Vision
+- 🫸🏽➡️ Full interview lifecycle platform
+- 🏷️ Employer-branded customization
+- 🔮 Predictive hiring success scoring
+- 🕶️ VR interview simulations
 
 ## 📜 License
 Distributed under the MIT `(License)`. See LICENSE for more information.
@@ -195,3 +247,5 @@ Distributed under the MIT `(License)`. See LICENSE for more information.
 ## 📧 Contact
 Project Team - Team Ace Hire<br>
 Project Link: [ACE-HIRE_AI-Powered-Interviewer](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer)
+
+
