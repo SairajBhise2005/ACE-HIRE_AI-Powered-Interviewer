@@ -1,6 +1,8 @@
 # ACE HIRE - AI Interview Preparation Platform
 
-![ACE HIRE Logo](https://drive.google.com/file/d/1qQg5LIJUYyaIoJQdvxlOM6CL6aLZMIs_/view?usp=sharing)
+<img src="image-url" alt="Alt Text" width="300" height="200">
+
+
 
 Become an ACE HIRE today - your gateway to interview success with AI-powered practice sessions and feedback.
 
