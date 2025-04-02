@@ -267,6 +267,3 @@ Distributed under the MIT `(License)`. See LICENSE for more information.
 
 Project Team - Team Ace Hire<br>
 Project Link: [ACE-HIRE_AI-Powered-Interviewer](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer)
-
-
-#Sairaj Bhise
